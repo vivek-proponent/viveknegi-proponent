@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivek-proponent&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=vivek-proponent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-proponent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vivek-proponent/vivek-proponent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
